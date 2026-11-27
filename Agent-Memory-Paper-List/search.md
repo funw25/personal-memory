@@ -82,7 +82,11 @@ OPENAI_API_KEY=（略
 python client/agent.py
 
 ```
-
+遇到问题：
+1.网络超时
+2.缺少“包”——重复出现此问题——deepseek建议开虚拟环境
+3.api找了阿里云的
+4.乱七八糟一堆报错，deepseek越指挥越乱——26.11.27
 
 
 #### **Multimodal Memory（多模态记忆）** ：比如Ella, ViloMem
